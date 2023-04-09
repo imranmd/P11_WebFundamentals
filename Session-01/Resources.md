@@ -1,0 +1,24 @@
+# Additional resources for Web 101
+# Web 101
+- Cheat Sheet: https://websitesetup.org/guides-for-beginners/ 
+- Deep Dive Medium Article: https://medium.com/free-code-camp/how-the-web-works-a-primer-for-newcomers-to-web-development-or-anyone-really-b4584e63585c 
+- Docs: https://developer.mozilla.org/en-US/docs/Web
+# SEO
+- Cheat Sheet: https://moz.com/learn/seo/seo-cheat-sheet 
+- Deep Dive Medium Article: https://neilpatel.com/what-is-seo/ 
+- Docs: https://developers.google.com/search/docs/beginner/seo-starter-guide
+# Protocols (HTTP)
+- Cheat Sheet: https://www.freecodecamp.org/news/what-is-http/ 
+- Deep Dive Medium Article: https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177 
+Docs: https://developer.mozilla.org/en-US/docs/Web/HTTP
+# Security
+- Cheat Sheet: https://pragmaticwebsecurity.com/cheatsheets.html 
+- Deep Dive Medium Article: https://medium.com/@brianrusseldavis/beginners-guide-to-web-application-security-fa4b4e832568 
+- Docs: https://owasp.org/ 
+# Client/Server (Frontend, Backend)
+- Cheat Sheet: https://medium.com/nerd-for-tech/what-is-the-client-server-architecture-7f769c101c1f 
+- Deep Dive Medium Article: https://www.simplilearn.com/what-is-client-server-architecture-article 
+- Docs: https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Client-Server_overview 
+# Databases
+- Cheat Sheet: https://www.sqltutorial.org/sql-cheat-sheet/
+- Deep Dive Medium Article: https://www.appdynamics.com/blog/engineering/a-newbie-guide-to-databases/ 
