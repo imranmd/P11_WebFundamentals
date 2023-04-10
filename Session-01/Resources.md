@@ -21,3 +21,6 @@
 - Docs: https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Client-Server_overview 
 # Databases
 - Deep Dive Article: https://www.appdynamics.com/blog/engineering/a-newbie-guide-to-databases/ 
+
+# Servers
+- Types of servers: https://www.educba.com/server-types/ or https://www.webopedia.com/reference/servers/
