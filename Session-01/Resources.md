@@ -1,6 +1,6 @@
 # Additional resources and post-reads for Web 101
 # Web 101
-- Cheat Sheet: https://websitesetup.org/guides-for-beginners/ 
+- Web basic concepts walkthrough: https://www.tutorialspoint.com/web_developers_guide/web_basic_concepts.htm
 - Deep Dive Medium Article: https://medium.com/free-code-camp/how-the-web-works-a-primer-for-newcomers-to-web-development-or-anyone-really-b4584e63585c 
 - Docs: https://developer.mozilla.org/en-US/docs/Web
 # SEO
@@ -8,7 +8,7 @@
 - Deep Dive Article: https://neilpatel.com/what-is-seo/ 
 - Docs: https://developers.google.com/search/docs/beginner/seo-starter-guide
 # Protocols (HTTP)
-- Cheat Sheet/ Introduction: https://www.freecodecamp.org/news/what-is-http/ 
+- All about protocol stack: https://www.khanacademy.org/computing/computers-and-internet/xcae6f4a7ff015e7d:the-internet/xcae6f4a7ff015e7d:the-internet-protocol-suite/a/the-internet-protocols 
 - Deep Dive Article: https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177 
 - Docs: https://developer.mozilla.org/en-US/docs/Web/HTTP
 # Security
@@ -20,5 +20,4 @@
 - Deep Dive Article: https://www.simplilearn.com/what-is-client-server-architecture-article 
 - Docs: https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Client-Server_overview 
 # Databases
-- Cheat Sheet/Introduction: https://www.sqltutorial.org/sql-cheat-sheet/
 - Deep Dive Article: https://www.appdynamics.com/blog/engineering/a-newbie-guide-to-databases/ 
