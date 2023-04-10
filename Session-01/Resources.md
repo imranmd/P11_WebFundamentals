@@ -24,3 +24,4 @@
 
 # Servers
 - Types of servers: https://www.educba.com/server-types/ or https://www.webopedia.com/reference/servers/
+- A deep dive into cloud servers: https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-a-cloud-server/#choosing-a-cloud-server
