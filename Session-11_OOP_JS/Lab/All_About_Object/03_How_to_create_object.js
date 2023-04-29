@@ -1,4 +1,4 @@
-// Creating an object using object literals
+// 01: Creating an object using object literals
 const myObject = {
   property1: "value1",
   property2: "value2",
@@ -7,7 +7,7 @@ const myObject = {
   },
 };
 
-// Creating an object using a constructor function
+// 02: Creating an object using a constructor function
 function MyObjectUsingConstructor(property1, property2) {
   this.property1 = property1;
   this.property2 = property2;
@@ -18,7 +18,7 @@ function MyObjectUsingConstructor(property1, property2) {
 
 const myObjectctor = new MyObjectUsingConstructor("value1", "value2");
 
-// Creating an object using Object.create()
+// 03: Creating an object using Object.create()
 // One important thing to keep in mind is that
 // the Object.create() method does not create a constructor function.
 // This means that you cannot use the new keyword
