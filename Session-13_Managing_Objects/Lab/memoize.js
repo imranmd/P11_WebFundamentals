@@ -24,6 +24,8 @@ const memoizedFibonacci = memoize(fibonacci);
 
 // Call the memoized function with different arguments
 console.log(memoizedFibonacci(5)); // Output: 5
+// Debug point here and show how memoize works here
+console.log(memoizedFibonacci(5)); // Output: 5
 console.log(memoizedFibonacci(10)); // Output: 55
 console.log(memoizedFibonacci(15)); // Output: 610
 console.log(memoizedFibonacci(20)); // Output: 6765
